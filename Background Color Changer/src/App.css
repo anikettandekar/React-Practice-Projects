@@ -1,0 +1,37 @@
+h2{
+  position: fixed;
+  right: 0;
+  left: 0;
+  text-align: center;
+  top: 50px;
+
+  color: aliceblue;
+
+  font-family: 'Mv boli';
+}
+
+p{
+  position: fixed;
+  right: 0;
+  left: 0;
+  text-align: center;
+  top: 200px;
+  font-size: 30px;
+  color: aliceblue;
+  font-family: 'Mv boli';
+}
+
+#buttonsDiv{
+  position: fixed;
+  bottom: 70px;
+  left: 0;
+  right: 0;
+
+  display: flex;
+  justify-content: center;
+}
+
+button{
+  width: 90px;
+  font-family: 'Mv boli';
+}
